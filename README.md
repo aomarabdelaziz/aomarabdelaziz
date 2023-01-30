@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelaziz Omar</h1>
-<h3 align="center">A highly motivated Junior DevOps Engineer seeking a challenging role in an organization where I can utilize my skills and knowledge to contribute to the success of the company.</h3>
+<h3 align="center">I am a DevOps Engineer with a passion for automation and optimization of infrastructure. I have experience in configuring and maintaining cloud-based infrastructure and have knowledge of CI/CD pipelines. I am proficient in scripting languages like Python and Bash and have experience with tools like Ansible, Jenkins, Terraform, Prometheus, and Docker. I have also worked with Kubernetes for container orchestration. In addition, I have experience with backend technology using PHP/Laravel. I am familiar with cloud platforms like AWS and GCP. I aim to continuously learn and improve my skills to contribute to the efficient and reliable deployment of applications. I am a team player and enjoy collaborating with cross-functional teams to achieve common goals.".</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aomarabdelaziz&label=Profile%20views&color=0e75b6&style=flat" alt="aomarabdelaziz" /> </p>
 
