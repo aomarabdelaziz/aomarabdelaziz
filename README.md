@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdelaziz Omar</h1>
-<h3 align="center">As a DevOps Engineer with a background in backend technology, I am driven by the desire to automate and optimize infrastructure. I have hands-on experience with CI/CD pipelines and tools like Ansible, Jenkins, Terraform, Prometheus, Docker, and Kubernetes. I am proficient in scripting languages like Python and Bash and have a solid understanding of cloud platforms like AWS and GCP. My experience with PHP/Laravel adds to my versatility in delivering end-to-end solutions. My goal is to continuously learn and enhance my skills to ensure the efficient and reliable deployment of applications. I enjoy collaborating with cross-functional teams and am dedicated to achieving project goals".</h3>
+<h3 align="center">As a DevOps Engineer with a background in backend technology, I am driven by the desire to automate and optimize infrastructure. I have hands-on experience with CI/CD pipelines and tools like Ansible, Jenkins, Terraform, Prometheus, Docker, and Kubernetes. I am proficient in scripting languages like Python and Bash and have a solid understanding of cloud platforms like AWS and GCP. My experience with PHP/Laravel adds to my versatility in delivering end-to-end solutions. My goal is to continuously learn and enhance my skills to ensure the efficient and reliable deployment of applications. I enjoy collaborating with cross-functional teams and am dedicated to achieving project goals</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aomarabdelaziz&label=Profile%20views&color=0e75b6&style=flat" alt="aomarabdelaziz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aomarabdelaziz" alt="aomarabdelaziz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aomarabdelaziz&theme=darkhub&column=8&margin-w=15&margin-h=15&no-frame=true" alt="aomarabdelaziz" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/aomarabdelaziz?tab=repositories](https://github.com/aomarabdelaziz?tab=repositories)
-
 - 📫 How to reach me **abdelazizomar851@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -22,8 +20,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aomarabdelaziz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aomarabdelaziz" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aomarabdelaziz&show_icons=true&locale=en&layout=compact" alt="aomarabdelaziz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aomarabdelaziz&show_icons=true&locale=en" alt="aomarabdelaziz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aomarabdelaziz&" alt="aomarabdelaziz" /></p>
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=aomarabdelaziz&amp;show_icons=true" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=aomarabdelaziz" alt="GitHub Stats"></p>
