@@ -21,5 +21,8 @@
 <p><a href="https://www.buymeacoffee.com/aomarabdelaziz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aomarabdelaziz" /></a></p><br><br>
 
 <h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=aomarabdelaziz&amp;show_icons=true" alt="GitHub Stats"></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=aomarabdelaziz" alt="GitHub Stats"></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmouddahaby&show_icons=true&locale=en&layout=compact" alt="mahmouddahaby" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmouddahaby&show_icons=true&locale=en" alt="mahmouddahaby" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmouddahaby&" alt="mahmouddahaby" /></p>
